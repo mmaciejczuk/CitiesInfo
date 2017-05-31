@@ -4,3 +4,6 @@ C:\Code\CORE\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp1.1\CityInfo.API.runt
 C:\Code\CORE\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp1.1\CityInfo.API.dll
 C:\Code\CORE\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.csprojResolveAssemblyReference.cache
 C:\Code\CORE\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.AssemblyInfo.cs
+C:\Code\CORE\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp1.1\CityInfo.API.pdb
+C:\Code\CORE\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.dll
+C:\Code\CORE\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.pdb
